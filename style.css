@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+  
+}
+h1{
+    font-size: 50px;
+    line-height: 25px;
+    color: rgb(84 84 84);
+    
+}
+h2{
+    font-size: 40px;
+}
+h4{
+    
+}
+.orange-color{
+    color: orange;
+}
+.btn{
+    text-decoration: none;
+    padding:20px 35px;
+    margin-top: 30px;
+    border-radius: 50px;
+    background-image: linear-gradient( 270deg, tomato, #FBA24F);
+    color: white;
+    font-weight: 600;
+}
+.flexible-width{
+    display: flex;
+    padding-bottom: 70px;
+}
+.half-width{
+    width: 50%;
+    margin:2%;
+    padding:1%;
+}
+.half-width img{
+    width:100%;
+}
+.header-left{
+    padding-top:180px;
+    margin-left: 50px;
+}
+.header-left p{
+    line-height: 30px;
+    font-weight: 500;
+    color:#828282;
+    font-size: 18px;
+    padding-bottom: 40px;
+}
+#person-image{
+    width: 61.5%;
+    margin-left: 130px;
+}
+.aboutme-area{
+    background-image: url(images/shapes/7.png);
+    background-repeat:no-repeat;
+}
+#aboutme{
+    
+    margin:100px 90px 0 0;
+}
+#aboutme p{
+    line-height: 33px;
+    font-weight: 500;
+    padding-bottom: 100px;
+}
